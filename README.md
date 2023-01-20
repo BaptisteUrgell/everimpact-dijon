@@ -4,14 +4,14 @@
 
 ## Overview
 
-<div style="text-align: justify">
+<div align="justify">
 An EverImpact’s customer, the city of Dijon is willing to estimate the amount of carbon directly emitted over its territory by urban activities. We have equipped the city with a spatially distributed network of IoT sensors that measure in real time the CO2 concentration in the atmosphere close to ground level (3-5 meters above ground surface).
  </div>
 </br>
 
 ## Assessment
 
-<div style="text-align: justify">
+<div align="justify">
 The assessment consists on:
 <ul>
 <li>Clean and organize the dataset;</li>
@@ -24,7 +24,7 @@ The assessment consists on:
 
 ## <div style="color: #37bae8">kaggle</div>
 
-<div style="text-align: justify">
+<div align="justify">
 You can reach the original notebook on kaggle <a href="">here</a> (not yet available).
 
 You can reach data on kaggle <a href="">here</a> (not yet available).
