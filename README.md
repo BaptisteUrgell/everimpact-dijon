@@ -39,7 +39,7 @@ You can reach the original notebook on kaggle <a href="https://www.kaggle.com/co
 </div>
 </br>
 
-## <div style="color: #ffcc33">WanB</div>
+## <div style="color: #ffcc33">WandB</div>
 
 <div align="justify">
 You can reach the training runs on wandb <a href="https://wandb.ai/urgellbapt/everimpact" target="_blank">here</a>.
