@@ -49,5 +49,5 @@ You can reach the training runs on wandb <a href="https://wandb.ai/urgellbapt/ev
 ## <div>Presentation</div>
 
 <div align="justify">
-You can download my pdf presentation <a href="https://github.com/BaptisteUrgell/everimpact-dijon/files/CO2%20concentration%20into%20flux.key" target="_blank">here</a>.
+You can download my pdf presentation <a href="https://github.com/BaptisteUrgell/everimpact-dijon/blob/main/files/CO2%20concentration%20into%20flux.pdf" target="_blank">here</a>.
 </div>
