@@ -1,6 +1,8 @@
 model
 wandb
 data
+*.key
+
 
 .DS_Store
 .ipynb_checkpoints

@@ -1,5 +1,6 @@
 <img src="assets/everimpact.png" alt="everimpact-logo" width="300"/>
 
+
 # Technical Assessment Dijon
 
 ## Overview
@@ -9,7 +10,7 @@ An EverImpact’s customer, the city of Dijon is willing to estimate the amount 
  </div>
 </br>
 
-## Assessment
+## Coding Assessment
 
 <div align="justify">
 The assessment consists on:
@@ -22,10 +23,31 @@ The assessment consists on:
 </div>
 </br>
 
-## <div style="color: #37bae8">kaggle</div>
+## Design Assessment
 
 <div align="justify">
-You can reach the original notebook on kaggle <a href="">here</a> (not yet available).
+Explain how you would convert the CO2 concentration recordings into flux (in tCO2 by unit of surface by unit of time) of CO2 emitted by the road network of the city.
+</div>
+</br>
 
-You can reach data on kaggle <a href="">here</a> (not yet available).
+## <div style="color: #37bae8">Kaggle</div>
+
+<div align="justify">
+You can reach the original notebook on kaggle <a href="https://www.kaggle.com/code/baptisteurgell/everimpact" target="_blank">here</a>.
+
+<!-- You can reach data on kaggle <a href="">here</a> (not yet available). -->
+</div>
+</br>
+
+## <div style="color: #ffcc33">WanB</div>
+
+<div align="justify">
+You can reach the training runs on wandb <a href="https://wandb.ai/urgellbapt/everimpact" target="_blank">here</a>.
+</div>
+</br>
+
+## <div>Presentation</div>
+
+<div align="justify">
+You can download my pdf presentation <a href="https://github.com/BaptisteUrgell/everimpact-dijon/files/CO2%20concentration%20into%20flux.key" target="_blank">here</a>.
 </div>
