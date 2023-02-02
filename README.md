@@ -1,4 +1,4 @@
-<img src="assets/everimpact.png" alt="everimpact-logo" width="300"/>
+<a href="https://www.everimpact.com/" target="_blank"><img src="assets/everimpact.png" alt="everimpact-logo" width="300"/></a>
 
 
 # Technical Assessment Dijon
